@@ -1063,7 +1063,7 @@ _Keterangan_: 1. ==`row`== digunakan untuk mengatur tata letak konten dalam sat
 </style>
 ```
 
-![[bf-r3.png]]
+![](assets/bf-r3.png)
 _Keterangan_:
 ini mengatur tinggi dari elemen yang memiliki ID `hero` menjadi 85% dari tinggi viewport (viewport height).
 
@@ -1115,8 +1115,10 @@ _Keterangan_: 1.  ==`p-2`== digunakan untuk mengatur padding pada tautan. Clas
 </style>
 ```
 
-![[bf-r4.png]] 22. Hasilnya akan seperti ini:
-![hasil](assets/bf-16.png)
+![](assets/bf-r4.png)
+
+22. Hasilnya akan seperti ini:
+    ![hasil](assets/bf-16.png)
 
 # Best Practices dan Tips
 
